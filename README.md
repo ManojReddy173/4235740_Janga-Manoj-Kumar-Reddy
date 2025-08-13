@@ -27,3 +27,5 @@
 ![Linux commands assignment](Linux/linux11.png)
 
 ![Linux commands assignment](Linux/linux12.png)
+
+![Introduction to C sololearn Certificate](Introduction%20to%20C/Janga_Manoj_Kumar_Reddy_sololearn_ItC.png)
